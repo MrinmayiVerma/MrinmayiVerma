@@ -1,4 +1,14 @@
 ## Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/MrinmayiVerma?label=Followers&style=social)
+
+![Mrinmayi Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinmayiVerma&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmayiVerma&layout=compact)
+
+
+[![Mrinmayi Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrinmayiVerma)](https://github.com/MrinmayiVerma/github-readme-activity-graph)
+
+
 
 <!--
 **MrinmayiVerma/MrinmayiVerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
