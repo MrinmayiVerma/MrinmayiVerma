@@ -3,7 +3,15 @@
 
 ![Mrinmayi Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrinmayiVerma&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmayiVerma&layout=compact)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233572A5?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
+
+
 
 
 [![Mrinmayi Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrinmayiVerma)](https://github.com/MrinmayiVerma/github-readme-activity-graph)
