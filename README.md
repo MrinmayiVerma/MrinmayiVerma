@@ -10,7 +10,7 @@
 </p>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrinmayiVerma&theme=tokyonight" alt="MrinmayiVerma" /></a> </p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrinmayiVerma&layout=compact&theme=jolly" alt=MrinmayiVerma />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrinmayiVerma&show_icons=true&locale=en&theme=jolly" alt="MrinmayiVerma" /></p>
+<&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MrinmayiVerma&show_icons=true&locale=en&theme=jolly" alt="MrinmayiVerma" />
 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
