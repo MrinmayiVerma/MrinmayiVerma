@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hey, Mrinmayi Here</br>────୨ৎ────</h1>
 <p align="center">
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mrinmayi-verma-050b15287/]) 
+ [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([(https://medium.com/@mrinmayi.kavita]) 
+ <a href="[https://medium.com/@mrinmayi.kavita]"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
  <a href="[https://www.linkedin.com/in/mrinmayi-verma-050b15287/]"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  </p>
