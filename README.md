@@ -2,7 +2,7 @@
 <h1 align="center">Hey, Mrinmayi Here</br>────୨ৎ────</h1>
 <p align="center">
  <a href="[https://www.linkedin.com/in/mrinmayi-verma-050b15287/]"><img width="130px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://medium.com/@mrinmayi.kavita]"><img width="140px" alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="[[https://medium.com/@mrinmayi.anand.verma]"><img width="140px" alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  </p>
  </br>
